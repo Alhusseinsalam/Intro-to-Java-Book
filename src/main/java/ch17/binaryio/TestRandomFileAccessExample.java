@@ -1,6 +1,6 @@
 package ch17.binaryio;
 
-public class RandomFileAccessExample {
+public class TestRandomFileAccessExample {
     public static void main(String[] args) {
         
     }
