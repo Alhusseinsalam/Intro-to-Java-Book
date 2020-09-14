@@ -8,7 +8,7 @@ public class CopyFile {
      * @param 'args[1]' for targetFile
      */
 
-    CopyFile() {};
+    CopyFile() {}
 
     public static void main(String[] args) {
         if (args.length != 2) {
