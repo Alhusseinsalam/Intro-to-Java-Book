@@ -4,14 +4,12 @@ public class RecursionCases {
     public static void main(String[] args) {
 //        System.out.println(factorial(5));
 //        System.out.println(getFibonacciNumByIndex(13));
-
-
-
+//
 //        System.out.println(isPalindrome("dad"));
 //        System.out.println(isPalindrome("mom"));
 //        System.out.println(isPalindrome("mama"));
-
-        System.out.println(recursiveBinarySearch(new int[] {1,2,3,4,5,6,7,8,9,10}, 5));
+//
+//        System.out.println(recursiveBinarySearch(new int[] {1,2,3,4,5,6,7,8,9,10}, 5));
     }
 
     public static long factorial(int n) {

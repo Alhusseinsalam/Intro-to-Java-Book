@@ -1,2 +1,4 @@
-package ch18.recursion;public class TowerOfHanoi {
+package ch18.recursion;
+
+public class TowerOfHanoi {
 }
