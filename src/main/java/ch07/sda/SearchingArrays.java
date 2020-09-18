@@ -1,4 +1,4 @@
-package ch7.sda;
+package ch07.sda;
 
 public class SearchingArrays {
     public static void main(String[] args) {
