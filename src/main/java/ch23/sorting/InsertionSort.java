@@ -3,13 +3,13 @@ package ch23.sorting;
 public class InsertionSort {
     public static void main(String[] args) {
         int[] array = {4,51,6,3,7,81,3,34,15};
-        int[] newArray = sortAsc(array);
+        int[] newArray = insertionSortAsc(array);
         for (int i = 0; i < newArray.length; i++) {
             System.out.println(newArray[i]);
         }
     }
 
-    public static int[] sortAsc(int[] originalArray) {
+    public static int[] insertionSortAsc(int[] originalArray) {
         for (int i = 1; i < originalArray.length; i++) {
             int currentMinElement = originalArray[i];
             int k;
